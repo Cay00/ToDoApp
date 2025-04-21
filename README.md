@@ -13,7 +13,7 @@ A minimal and clean ToDo mobile app built with Flutter. It allows you to manage 
 
 ## 📸 Screen
 
-![App Screenshot](screenshots/screen1.jpg)
+<img src="screenshots/screen1.jpg" width="300"/>
 
 ## 🚀 Getting Started
 
