@@ -1,16 +1,25 @@
-# praktyka_app
+# ✅ ToDo App
 
-A new Flutter project.
+A minimal and clean ToDo mobile app built with Flutter. It allows you to manage tasks, organize them into lists, mark priorities, and track due dates – all with support for light and dark themes.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- ✅ Create, edit, and delete tasks
+- ⭐ Mark tasks as important
+- 📅 Set task deadlines
+- 🗂 Assign tasks to custom lists
+- 🌗 Light & dark mode support
+- 🔁 Repeating habits (coming soon)
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+:-------------------------:
+<img src="screenshots/light_1.png" width="200">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/your-username/todo-app.git
+cd todo-app
+flutter pub get
+flutter run
